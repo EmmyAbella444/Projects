@@ -39,7 +39,7 @@ An intuitive and simple-to-use application that helps users keep track of their 
 - **Video**: [Video Coming Soon!]
 
 
-### [Digital Wallet](https://github.com/your-username/digital-wallet)  
+### [Digital Wallet](https://github.com/EmmyAbella444/Projects/blob/main/DigitalWallet.md)  
 A secure digital wallet application with cryptocurrency support, featuring integration with Polkadot for seamless and fast transactions calculations(aka my first project ever)
 
 - **Tech Stack**: Python
