@@ -6,7 +6,7 @@ Feel free to explore, learn more about my work, and contact me if you'd like to 
 
 ## 🛠️ Projects Overview
 
-### [Cashub](https://github.com/your-username/cashub)  
+### [Cashub](https://github.com/EmmyAbella444/Projects/blob/main/CasHub.md)  
 A social media platform tailored for IB students to develop and showcase their CAS (Creativity, Activity, Service) portfolios while interacting and collaborating with each other.
 
 - **Tech Stack**: HTML, CSS, Python, Flask and SQlite
