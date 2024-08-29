@@ -29,7 +29,7 @@ This project combines hardware and software to save an injured bird by monitorin
 
   
 
-### [Habit Tracker](https://github.com/your-username/habit-tracker)  
+### [Habit Tracker](https://github.com/EmmyAbella444/Projects/blob/main/HabitTracker.md)  
 An intuitive and simple-to-use application that helps users keep track of their daily habits and routines, encouraging consistency and personal growth.
 
 - **Tech Stack**: Python and Kivy
