@@ -17,7 +17,7 @@ A social media platform tailored for IB students to develop and showcase their C
 - **Video**: [Video Coming Soon!]
 
 
-### [The Peter the Bird](https://github.com/your-username/peter-the-bird)  
+### [The Peter the Bird](https://github.com/EmmyAbella444/Projects/blob/main/PeterTheBird.md)  
 This project combines hardware and software to save an injured bird by monitoring environmental factors like humidity and temperature. Using a Raspberry Pi and a tempearture and humidity sensor, the data collected is used to ensure an ideal healing environment.
 
 - **Tech Stack**: Python, Raspberry Pi, Sensor Integration (Temperature & Humidity)
