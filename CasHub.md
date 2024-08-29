@@ -1,7 +1,7 @@
 
 
 
-#  The CasHub - Create, Interact and Showcase Your Clubs and Activities!
+# The CasHub - Create, Interact and Showcase Your Clubs and Activities!
 ![logo](https://github.com/EmmyAbella444/Unit_4/assets/111819437/a404b4a9-90c7-4483-9b6d-46435dc13288)
 
 
@@ -9,13 +9,13 @@ Fig1.Logo for the website made in Canva[^1]
 
 
 # Table of contents
-####  Planning
-####  Design
-####  Development
-####  Functionality
-####  Evaluation
+#### Criteria A: Planning
+#### Criteria B: Design
+#### Criteria C: Development
+#### Criteria D: Functionality
+#### Criteria E: Evaluation
 
-#  Planning
+# Criteria A: Planning
 
 In the international baccalaureate program, students must create a CAS portfolio to show their participation in extracurricular activities. Unfortunately, the students from a local school are having difficulty with their portfolios. Many of them lack proper documentation and forget to update their portfolios every week, because the current portfolio makes it hard for teachers to keep track of their progress since they have to open multiple links to check each student, since the users are not logged in the same website, which is time-consuming for teachers. The CAS portfolio is also used to assess a student's development of skills like collaboration and communication. However, the current portfolio does not facilitate this since it does not allow students to view each other's profiles, collaborate or interact with them. Additionally, the current portfolio does not have the option to download the activities in pdf format, which is an IB requirement, making it difficult for students to demonstrate their involvement which can result in them potentially receiving a lower grade and this can negatively impact their IB score and future university applications.
 
@@ -335,7 +335,7 @@ class database_worker:
 The __init__ method is the constructor for the class, which takes the name of the database file as an argument and sets up a connection to it.
 The search method takes a query string as an argument, executes it on the database using the cursor object and returns all the resulting rows as a list.The get method also takes a query string as an argument, executes it on the database using the cursor object and returns only the first resulting row as a tuple.The run_save method takes a query string as an argument, executes it on the database using the cursor object and commits the changes to the database. Finally, the close method is used to close the connection to the database. With this method it is easier to execute queries in the code.
 
-## The website should have a user registration and login system with encryption of the password.                             
+## Success criteria 1: The website should have a user registration and login system with encryption of the password.                             
 
 ### Registration   
 To achieve the first success criteria I made a function to register in the website:
@@ -505,7 +505,7 @@ If the user exists in the database, their id, email, and hashed password are obt
 
 With those 2 functions the user is able to register and login safely in the website.
 
-## The website should allow users to post their activities and ensure that all posts are properly documented.
+## Success criteria 2:The website should allow users to post their activities and ensure that all posts are properly documented.
 To achieve this criteria I made a home page which contains an option to add new posts and display all posts made by the users.
 ```.py
 # main page
@@ -635,7 +635,7 @@ comments_dict = {}
 ```
 After retrivieng all data from posts and comments the function passes the data to the HTML template using the render_template() function. In this way the user is able to visualize all posts and add new entries, and the validations make sure that the activities are properly documented.
 
-## The website should allow users to download the portfolio in pdf format.
+## Success criteria 3:The website should allow users to download the portfolio in pdf format.
 To achieve this success criteria, I first made a research and defined the best library for it. I chose to work with [^10]FPDF library since it is written entirely in Python, so it does not require any external dependencies and is able to add text and images to the pdf file.
 
 ```.py
@@ -1055,7 +1055,7 @@ For the video script check appendix 3.
 
 
 
-# Evaluation
+# Criteria E: Evaluation
 
 ## Client
 | Criteria                                                                                                       | Met or Not? | Feedback               |
