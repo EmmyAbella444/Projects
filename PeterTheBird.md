@@ -514,7 +514,7 @@ To fulfill criteria 6, we predicted the temperature and humidity of the next sub
 
 # Criteria D: Functionality
 ## A 7 min video demonstrating the proposed solution with narration
-https://drive.google.com/drive/folders/1lezKfb5EglCE-TGsE2RxsHOTJydVnSUX
+https://drive.google.com/file/d/1chHmt833AencunkQRAfSnb5EigbMiQw_/view?usp=drive_link
 
 [^1]: Industries, Adafruit. “DHT11 Basic Temperature-Humidity Sensor + Extras.” Adafruit Industries Blog RSS, https://www.adafruit.com/product/386. 
 [^2]: Nelson, Carter. “Modern Replacements for DHT11 and dht22 Sensors.” Adafruit Learning System, https://learn.adafruit.com/modern-replacements-for-dht11-dht22-sensors/what-are-better-alternatives.   
