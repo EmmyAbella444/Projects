@@ -44,7 +44,7 @@ A secure digital wallet application with cryptocurrency support, featuring integ
 - **Video**: Video Coming Soon!]
 
 
-### Extra from me 🌸
+### Beyond the Code 🌸
 I have also worked on a research paper combining Computer Science and Global Politics. It was awarded an A, the highest grade possible in the International Baccalaureate program. Feel free to check it out if you want to know more about my writing.
 - Research Question: " To what extent could big data have been useful to prevent the 2023 attacks on the Brazilian Congress? "
   
