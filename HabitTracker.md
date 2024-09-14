@@ -520,9 +520,7 @@ class TableScreen(MDScreen):
 ```
 # Criteria D: Functionality
 ## A video demonstrating the proposed solution with narration
-
-
-https://user-images.githubusercontent.com/111819437/225452470-730bb263-d6d0-4a6c-93db-d38ae4a59037.mov
+[coming soon!]
 
 
 
